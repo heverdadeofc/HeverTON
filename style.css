@@ -1,0 +1,48 @@
+body {
+   background-color: greenyellow;
+}
+header {
+   background-color: whitesmoke;
+   padding: 7px;
+}
+.grupo{
+   display: flex;
+}
+#ton1{
+   position: fixed;
+   left: 5%;
+}
+#ton2{
+   position: fixed;
+   left: 27%;
+}
+#ton3{
+   position: fixed;
+   left: 49%;
+}
+#ton1{
+   position: fixed;
+   left: 5%;
+}
+#ton2{
+   position: fixed;
+   left: 27%;
+}
+#ton3{
+   position: fixed;
+   left: 49%;
+}#ton11{
+   position: fixed;
+   left: 10%;
+   bottom: 8%;
+}
+#ton12{
+   position: fixed;
+   left: 32%;
+   bottom: 14%;
+}
+#ton13{
+   position: fixed;
+   left: 55%;
+   bottom: 21%;
+}
